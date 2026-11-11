@@ -1,0 +1,47 @@
+# Node / Frontend
+node_modules/
+dist/
+dist-ssr/
+*.local
+.npm
+.eslintcache
+
+# Python / Backend
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.env
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Model & Video Artifacts
+uploads/
+*.h5
+*.tflite
+*.onnx
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+
+# Metrics & Plots
+*.png
+*.jpg
+training_metrics.png
+confusion_matrix.png
+roc_curve.png
+
+# IDE & OS
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db

@@ -1,0 +1,6 @@
+{
+  "name": "AI Violence Detection",
+  "description": "AI/ML-based video upload and live webcam violence detection system using CNN-LSTM neural networks and OpenCV.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
